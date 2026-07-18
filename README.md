@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Shashwat Singh</h1>
 
 <p align="center">
