@@ -10,10 +10,6 @@ Building production-ready AI systems, scalable backend services, and distributed
 Machine Learning • Distributed Systems • NLP • Computer Vision • System Design
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=singhshashwat2108&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
