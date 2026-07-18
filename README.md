@@ -27,7 +27,7 @@ Machine Learning • Distributed Systems • NLP • Computer Vision • System 
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,spring,fastapi,nodejs,flask,pytorch,opencv,mysql,mongodb,redis,docker,kafka,aws,git,github,linux,vscode,postman&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,spring,fastapi,nodejs,flask,pytorch,opencv,mysql,mongodb,redis,docker,kafka,aws,git,github,linux,vscode,postman&perline=15" />
 </p>
 
 ---
