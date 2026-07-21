@@ -31,32 +31,6 @@ Machine Learning • Distributed Systems • NLP • Computer Vision • System 
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 📄 **Document Intelligence Platform** | OCR + LayoutLMv3 + NLP pipeline for intelligent document understanding |
-| 🏗️ **QueryHub Microservices** | Spring Boot microservices with Redis caching, Docker, and scalable architecture |
-| 🏠 **Smart Home Automation** | IoT platform for device monitoring and automation |
-| 🧠 **Image Classification** | Deep learning models for computer vision using PyTorch |
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=singhshashwat2108&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhshashwat2108&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=singhshashwat2108&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🌱 Currently Exploring
 
 - Large Language Models (LLMs)
